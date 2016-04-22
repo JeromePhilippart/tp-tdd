@@ -13,12 +13,12 @@
 * LAMBOIS	ALEXIS :
 * LAUDE	REMI :
 * LENTINI	LORENZO :
-* LESAGE	DYLAN : https://github.com/husdylan/TDD.git
+* LESAGE	DYLAN :
 * MATHON	ANTHONY :
 * MEFTOUH	RIAD : https://github.com/MeftouhRiad/TDDGitRepository.git
 * MEULEMAN	REMI : https://github.com/RemiMeuleman/ChiffreRomain.git
 * MOREAU	THOMAS :
-* PHILIPPART	JÉRÔME :
+* PHILIPPART	JÉRÔME :https://github.com/JeromePhilippart/RomanNumerals.git
 * REGNIER	KÉVIN :
 * SLOWINSKI	DYLAN : https://github.com/slowinsd/TDD.git
 * VANHECKE	JULIEN :
